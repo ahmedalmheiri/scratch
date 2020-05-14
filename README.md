@@ -1,5 +1,9 @@
----
-<title> scratch </title>
----
+<html>
+  <head> 
+    <title> scratch platform </title>
+    </head>
+  </html>
+  
+    
 
 
